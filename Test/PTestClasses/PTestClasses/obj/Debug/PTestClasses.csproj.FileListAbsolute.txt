@@ -1,0 +1,10 @@
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\bin\Debug\PTestClasses.exe.config
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\bin\Debug\PTestClasses.exe
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\bin\Debug\PTestClasses.pdb
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\obj\Debug\PTestClasses.Form1.resources
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\obj\Debug\PTestClasses.frmMensalista.resources
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\obj\Debug\PTestClasses.Properties.Resources.resources
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\obj\Debug\PTestClasses.csproj.GenerateResource.Cache
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\obj\Debug\PTestClasses.exe
+c:\users\0030481923044\documents\visual studio 2013\Projects\PTestClasses\PTestClasses\obj\Debug\PTestClasses.pdb
+C:\Users\0030481923044\Documents\Visual Studio 2013\Projects\PTestClasses\PTestClasses\obj\Debug\PTestClasses.csprojResolveAssemblyReference.cache
