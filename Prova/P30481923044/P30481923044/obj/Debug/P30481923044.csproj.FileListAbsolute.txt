@@ -1,0 +1,10 @@
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\bin\Debug\P30481923044.exe.config
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\bin\Debug\P30481923044.exe
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\bin\Debug\P30481923044.pdb
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\obj\Debug\P30481923044.csprojAssemblyReference.cache
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\obj\Debug\P30481923044.Form1.resources
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\obj\Debug\P30481923044.Properties.Resources.resources
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\obj\Debug\P30481923044.csproj.GenerateResource.cache
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\obj\Debug\P30481923044.csproj.CoreCompileInputs.cache
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\obj\Debug\P30481923044.exe
+C:\Users\Gouveia\source\repos\P30481923044\P30481923044\obj\Debug\P30481923044.pdb
